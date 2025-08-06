@@ -37,7 +37,7 @@ logger = logging.getLogger(__name__)
 # --- MODEL CONFIGURATION ---
 # Multi-model strategy for different scenarios
 EMBEDDING_MODEL = "nomic-embed-text"  # Lightweight but powerful embeddings
-PRIMARY_CHAT_MODEL = "gemma3:7b-it-q4_K_M"  # Balanced power/performance
+PRIMARY_CHAT_MODEL = "gemma3n:7b-it-q4_K_M"  # Balanced power/performance
 FALLBACK_CHAT_MODEL = "gemma3:1b-it-q4_K_M"  # For low-power situations
 VISION_MODEL = "llava:latest"  # For image-based questions
 
