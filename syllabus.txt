@@ -1,0 +1,79 @@
+
+Zimbabwean Agriculture Syllabus – Local Context Knowledge Base
+
+1. Indigenous Trees:
+- Hardwood Trees: Mukwa (Pterocarpus angolensis), Pod Mahogany (Afzelia quanzensis), Zimbabwean Teak (Baikiaea plurijuga), Acacia spp.
+- Softwood Trees: Pine (Pinus spp.), Cypress (Cupressus spp.), Eucalyptus (Note: Not indigenous but widely naturalized)
+
+2. Agroforestry:
+- Agroforestry systems in Zimbabwe often include combinations of maize intercropped with trees like Leucaena, Sesbania, or Faidherbia albida.
+- Trees provide shade, fuelwood, fodder, and help in nitrogen fixation.
+- Mukwa and Acacia are used in boundary planting and windbreaks.
+
+3. Soil and Water Conservation:
+- Indigenous techniques include contour plowing, stone bunds, infiltration pits.
+- Vetiver grass and trees like Acacia are used for erosion control.
+- Mulching with crop residues is common in low rainfall areas like Matabeleland South.
+
+4. Indigenous Knowledge in Pest and Disease Control:
+- Use of ashes, chilli, neem extracts to deter pests.
+- Intercropping with repellent crops (e.g. garlic, marigold).
+- Ashes used to preserve harvested grains in rural granaries.
+
+5. Indigenous Livestock Breeds:
+- Cattle: Mashona, Tuli, Nkone – resistant to heat and local diseases.
+- Goats: Small East African goat – well adapted to drought-prone areas.
+- Poultry: Road runner chickens (free range) – popular in communal areas.
+
+6. Climate Resilient Crops:
+- Sorghum, Pearl Millet, Cowpeas, Groundnuts, Bambara nuts.
+- Traditional grains are drought tolerant and suited to semi-arid regions.
+- Conservation agriculture (zero tillage) promoted in drought-affected provinces.
+
+7. Seed Preservation:
+- Traditional seed banks use clay pots, calabashes, and ash layering.
+- Seeds are stored in dark, cool huts away from pests.
+- Seed exchange is common in communal farming communities.
+
+8. Cultural Practices in Agriculture:
+- Certain trees are spiritually significant and are preserved (e.g. Mubvamaropa).
+- Rainmaking ceremonies by traditional leaders precede planting season.
+- Lunar planting calendars followed in some rural areas.
+
+9. Agricultural Calendar:
+- Farming is closely tied to the Zimbabwean rain season (Nov–March).
+- April to June is the post-harvest season.
+- August–October is land preparation and conservation period.
+
+10. Agricultural Tools:
+- Traditional hoes (badza), ox-drawn ploughs, hand-harvest sickles.
+- Use of donkey carts in dry regions where cattle numbers are low.
+
+11. Value Addition:
+- Drying vegetables like pumpkin leaves (muboora), cowpea leaves (munyemba).
+- Peanut butter production using traditional pestles and mortar.
+- Home-scale oil pressing from sunflower or groundnuts in some wards.
+
+12. Emerging Issues:
+- Effects of climate change: shifting rain patterns, increased droughts, pest outbreaks.
+- Migration of youth away from agriculture.
+- Importance of ICT tools and solar-powered irrigation in smallholder farming.
+
+13. Urban and Peri-Urban Farming:
+- Chicken projects, sack gardening, rabbitry in urban high-density suburbs.
+- Key for food security especially during economic downturns.
+
+14. Government and NGO Programmes:
+- Pfumvudza/Intwasa program promoting conservation agriculture.
+- Agricultural extension services and farmer field schools.
+- Livelihood support from NGOs like World Vision, AGRITEX, and FAO Zimbabwe.
+
+15. Local Food Systems:
+- Open-air markets (e.g. Mbare Musika) connect rural producers with urban consumers.
+- Preservation methods include sun drying, smoking, fermenting (e.g. maheu, dried meat “chimukuyu”).
+
+16. Career Paths in Agriculture:
+- Crop science, animal husbandry, soil science, veterinary science, agri-business.
+- Hands-on training through agricultural colleges like Gwebi and Chibero.
+
+This knowledge base supports localized, syllabus-aligned teaching for RAG models and education apps in Zimbabwe.
