@@ -31,7 +31,7 @@ curl -fsSL https://ollama.com/install.sh | sh
 2. Download Models
 bash
 ollama pull nomic-embed-text
-ollama pull gemma3:7b-it-q4_K_M
+ollama pull gemma3n:7b-it-q4_K_M
 3. Set Up Environment
 bash
 python3 -m venv edusense-env
